@@ -1,0 +1,9 @@
+{
+    "typescript.tsserver.trace": "verbose",
+    "typescript.quickSuggestionsForPaths": true,
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": false,
+        "strings": false
+    }
+  }
